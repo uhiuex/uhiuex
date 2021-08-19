@@ -11,5 +11,6 @@ uhiuex/uhiuex is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Adeyemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhiuex)](https://github.com/anuraghazra/github-readme-stats)
-![Adeyemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhiuex&show_icons=true)
+![Adeyemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhiuex&show_icons=truetheme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhiuex)](https://github.com/anuraghazra/github-readme-stats)
+
